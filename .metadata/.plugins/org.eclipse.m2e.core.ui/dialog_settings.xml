@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\dell\eclipse-workspace\SpringAssignment66\src\main\resources\Q6.xml"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringAssignment88\pom.xml"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringAssignment77\src\main\java\Question7\SPEL.java"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringAssignment22\src\main\java\com\example\demo\Assignment2main.java"/>
+			<item value="C:\Users\dell\eclipse-workspace\Springassignment2\src\main\resources\Assignment2.xml"/>
+			<item value="C:\Users\dell\eclipse-workspace\Springassignment\pom.xml"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringCoreExample\src\main\java\org\ragh\javabrains\Triangle.java"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringCoreExample\src\main\java\springcore\Main.java"/>
+			<item value="C:\Users\dell\eclipse-workspace\Junit\src\test\java\junit5\junitTest.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\dell\eclipse-workspace\springSecurityAssignment3"/>
+			<item value="C:\Users\dell\eclipse-workspace\springSecurity"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringRestAssignment2demo"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringAssignment2eg"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringRest4"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringRest5"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringRest"/>
+			<item value="C:\Users\dell\eclipse-workspace\SpringBootAssignments"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

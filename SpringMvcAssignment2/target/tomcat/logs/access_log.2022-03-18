@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:20:32 +0530] "GET /spring/AssignmentQ2 HTTP/1.1" 200 581 http-bio-8080-exec-1 608
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:20:33 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:21:02 +0530] "POST /spring/AssignmentQ2 HTTP/1.1" 200 206 http-bio-8080-exec-4 106
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:36:47 +0530] "POST /spring/AssignmentQ2 HTTP/1.1" 200 206 http-bio-8080-exec-6 6
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:37:02 +0530] "GET /spring/AssignmentQ2 HTTP/1.1" 200 581 http-bio-8080-exec-8 63
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:40:41 +0530] "GET /spring/AssignmentQ1 HTTP/1.1" 404 949 http-bio-8080-exec-1 54
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:41:35 +0530] "GET /spring/AssignmentQ1 HTTP/1.1" 200 100 http-bio-8080-exec-1 628
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:48:00 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 949 http-bio-8080-exec-4 11
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:48:02 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 949 http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:48:04 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 949 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:48:07 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 949 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:48:22 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 949 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:49:08 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 949 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:49:11 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 949 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:49:44 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 1019 http-bio-8080-exec-1 59
+0:0:0:0:0:0:0:1 - - [18/Mar/2022:21:49:48 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 404 1019 http-bio-8080-exec-3 2

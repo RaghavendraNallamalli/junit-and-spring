@@ -1,0 +1,26 @@
+package junit5;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+public class minmaxTest {
+    @Test
+    void minmax1(){
+        minmax obj=new minmax();
+        int[]array={69,65,84,75};
+        int[] expected={65,84};
+        int[]actual= obj.findMinMax(array);
+
+        assertArrayEquals(expected,actual);
+    }
+    @Test
+    void minmax2(){
+        minmax obj=new minmax();
+        int[]array={100,165,184,175};
+        int[] expected= {100,184};
+        int[]actual= obj.findMinMax(array);
+    }
+
+    
+
+}

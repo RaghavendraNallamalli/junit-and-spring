@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="minmaxTest" project="Junit" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="junit5.minmaxTest" time="0.033" displayname="minmaxTest" uniqueid="[engine:junit-jupiter]/[class:junit5.minmaxTest]">
+    <testcase name="minmax1" classname="junit5.minmaxTest" time="0.028" displayname="minmax1()" uniqueid="[engine:junit-jupiter]/[class:junit5.minmaxTest]/[method:minmax1()]"/>
+    <testcase name="minmax2" classname="junit5.minmaxTest" time="0.001" displayname="minmax2()" uniqueid="[engine:junit-jupiter]/[class:junit5.minmaxTest]/[method:minmax2()]"/>
+    <testcase name="minmax3" classname="junit5.minmaxTest" time="0.001" displayname="minmax3()" uniqueid="[engine:junit-jupiter]/[class:junit5.minmaxTest]/[method:minmax3()]"/>
+  </testsuite>
+</testrun>
